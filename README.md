@@ -8,6 +8,7 @@ This passion project is an upgrade of one of my previous projects. One of the we
 ### Non-Functional
 * The website should be well designed.
 * The wensite should be user-friendly.
+* Responsive
 ## Must Have and Nice to have Features
 ### Must Have:
 *  The owner of the website can add/edit/delete post on it,  In each of the post, it supports paragraphs.
