@@ -16,3 +16,5 @@ This passion project is an upgrade of one of my previous projects. One of the we
 * In each of the post, it supports map location, pictures and be able to place the post in different categories.
 * The website should be well designed.
 * The wensite should be user-friendly.
+## Database Diagram:
+![alt text](https://github.com/xdc811/BCIT-passion-project/raw/master/database%20diagram.jpg)
