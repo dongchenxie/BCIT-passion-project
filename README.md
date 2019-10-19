@@ -19,7 +19,9 @@ This passion project is an upgrade of one of my previous projects. One of the we
 ## Database Diagram:
 ![alt text](https://github.com/xdc811/BCIT-passion-project/raw/master/database%20diagram.jpg)
 ## Prototypes
-###Index:
+### Index:
 ![alt text](https://github.com/xdc811/BCIT-passion-project/raw/master/pgchinese_index.jpg)
-###Post Layout:
-###Post Edit:
+### Post Layout:
+![alt text](https://github.com/xdc811/BCIT-passion-project/raw/master/pgchinese_post.jpg)
+### Post Edit:
+![alt text](https://github.com/xdc811/BCIT-passion-project/raw/master/pgchinese_upload.jpg)
