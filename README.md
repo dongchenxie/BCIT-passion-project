@@ -18,3 +18,8 @@ This passion project is an upgrade of one of my previous projects. One of the we
 * The wensite should be user-friendly.
 ## Database Diagram:
 ![alt text](https://github.com/xdc811/BCIT-passion-project/raw/master/database%20diagram.jpg)
+## Prototypes
+###Index:
+![alt text](https://github.com/xdc811/BCIT-passion-project/raw/master/pgchinese_index.jpg)
+###Post Layout:
+###Post Edit:
